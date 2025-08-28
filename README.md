@@ -1,12 +1,12 @@
 ![Profile views](https://komarev.com/ghpvc/?username=aj7tt&color=green) 
+<br />
 <p align="center">
-<a href="https://github.com/lhnyau">
-</a>
+<a href="https://github.com/lhnyau"></a>
 </p>
  
-### 🌷 I'm a Software Tester who loves testing, and problem-solving.
+## 🌷 I'm a Software Tester who loves testing, and problem-solving.
  
-<p align="center">
+<p>
 <!-- Programming Languages -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -27,17 +27,20 @@
 <img src="https://img.shields.io/badge/API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
  
- 
 ---
-### 🔭 Projects  
+| <a href="https://github.com/lhnyau/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lhnyau&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="An's github stats" /></a> | <a href="https://github.com/lhnyau/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhnyau&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
  
+#### Top Repositories
+<a href="https://github.com/lhnyau/Selenium-Java">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lhnyau&repo=Selenium-Java&theme=buefy" />
+</a>
+<a href="https://github.com/lhnyau/covid-19-tableau">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lhnyau&repo=covid-19-tableau&theme=buefy" />
+</a>
  
----
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: stretch; gap: 10px;">
-<img height=185 style="object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs?username=lhnyau&show_icons=true&locale=en&layout=compact&theme=prussian&border_radius=15&hide_border=true" alt="lhnyau" />
-<img height=185 style="object-fit: contain;" src="https://streak-stats.demolab.com/?user=lhnyau&theme=prussian&border_radius=15&hide_border=true" alt="lhnyau" />
-</div>
- 
+<br />
+
 ---
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lhnyau&bg_color=000105&color=ffffff&line=37a939&point=0e7500&area=true&hide_border=true" alt="GitHub Activity Graph" />
